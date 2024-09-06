@@ -285,13 +285,13 @@ footer {
   }
 
   .social-icons{
-    margin-left: -65px;
+    margin-left: -55px;
     justify-content: center;
     margin-bottom: 10px;
   }
 
   .links{
-    margin-left: -35px;
+    margin-left: -25px;
   }
   footer {
     flex-direction: column;
