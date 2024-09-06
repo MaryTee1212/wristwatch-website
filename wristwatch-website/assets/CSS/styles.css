@@ -285,11 +285,13 @@ footer {
   }
 
   .social-icons{
-    margin-left: -95px;
+    margin-left: -65px;
+    justify-content: center;
+    margin-bottom: 10px;
   }
 
   .links{
-    margin-left: -55px;
+    margin-left: -35px;
   }
   footer {
     flex-direction: column;
@@ -298,11 +300,6 @@ footer {
 
   .footer-section {
     margin: 10px 0;
-  }
-
-  .social-icons {
-    justify-content: center;
-    margin-bottom: 10px;
   }
 
   .footer-column {
