@@ -291,6 +291,28 @@ footer {
   .links{
     margin-left: -55px;
   }
+  footer {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .footer-section {
+    margin: 10px 0;
+  }
+
+  .social-icons {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .footer-column {
+    text-align: center;
+  }
+
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+  }
 }
 
 /* Small Devices (portrait tablets and large phones, 600px to 767px) */
