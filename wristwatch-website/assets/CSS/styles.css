@@ -209,7 +209,7 @@ footer {
 .links {
   display: flex;
   flex-direction: column;
-  border-top: 1px solid #8743e8;
+  
 }
 
 .link {
